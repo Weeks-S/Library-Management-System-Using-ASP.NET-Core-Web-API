@@ -1,6 +1,6 @@
 using System.Text;
-using BackendDemo.Data;
-using BackendDemo.Repositories;
+using LibraryManagement.Data;
+using LibraryManagement.Repositories;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;

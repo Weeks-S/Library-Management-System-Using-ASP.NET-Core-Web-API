@@ -1,8 +1,8 @@
-using BackendDemo.Data;
-using BackendDemo.Models;
+using LibraryManagement.Data;
+using LibraryManagement.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BackendDemo.Repositories;
+namespace LibraryManagement.Repositories;
 
 public class UserRepository(AppDbContext context) : IUserRepository
 {

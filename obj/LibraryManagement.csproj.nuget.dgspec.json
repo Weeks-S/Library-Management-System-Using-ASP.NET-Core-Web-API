@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\garon\\.NET\\BackendDemo\\BackendDemo.csproj": {}
+    "C:\\Users\\garon\\.NET\\Library Management System\\LibraryManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\garon\\.NET\\BackendDemo\\BackendDemo.csproj": {
+    "C:\\Users\\garon\\.NET\\Library Management System\\LibraryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\garon\\.NET\\BackendDemo\\BackendDemo.csproj",
-        "projectName": "BackendDemo",
-        "projectPath": "C:\\Users\\garon\\.NET\\BackendDemo\\BackendDemo.csproj",
+        "projectUniqueName": "C:\\Users\\garon\\.NET\\Library Management System\\LibraryManagement.csproj",
+        "projectName": "LibraryManagement",
+        "projectPath": "C:\\Users\\garon\\.NET\\Library Management System\\LibraryManagement.csproj",
         "packagesPath": "C:\\Users\\garon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\garon\\.NET\\BackendDemo\\obj\\",
+        "outputPath": "C:\\Users\\garon\\.NET\\Library Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\garon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -70,6 +70,10 @@
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "OpenLibrary.NET": {
+              "target": "Package",
+              "version": "[0.1.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

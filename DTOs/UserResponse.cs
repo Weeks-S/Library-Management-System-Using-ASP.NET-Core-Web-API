@@ -1,4 +1,4 @@
-namespace BackendDemo.DTOs;
+namespace LibraryManagement.DTOs;
 
 public class UserResponseDto
 {

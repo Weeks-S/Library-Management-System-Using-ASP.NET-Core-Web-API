@@ -1,13 +1,13 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using BackendDemo.Data;
-using BackendDemo.DTOs;
+using LibraryManagement.Data;
+using LibraryManagement.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 
-namespace BackendDemo.Controllers;
+namespace LibraryManagement.Controllers;
 
 [ApiController]
 [Route("api/auth")]

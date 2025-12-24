@@ -1,6 +1,6 @@
-using BackendDemo.Models;
+using LibraryManagement.Models;
 
-namespace BackendDemo.Repositories;
+namespace LibraryManagement.Repositories;
 
 public interface IUserRepository
 {

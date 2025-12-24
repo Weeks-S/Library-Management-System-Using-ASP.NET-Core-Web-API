@@ -1,7 +1,7 @@
-using BackendDemo.Models;
-using BackendDemo.Repositories;
+using LibraryManagement.Models;
+using LibraryManagement.Repositories;
 
-namespace BackendDemo.Services;
+namespace LibraryManagement.Services;
 
 public class UserService(IUserRepository repo)
 {

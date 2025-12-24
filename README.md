@@ -1,4 +1,4 @@
-# BackendDemo
+# LibraryManagement
 
 A .NET 8.0 backend template demonstrating user management with authentication, built using ASP.NET Core, Entity Framework Core, and JWT tokens.
 
@@ -33,7 +33,7 @@ A .NET 8.0 backend template demonstrating user management with authentication, b
 
    ```bash
    git clone <repository-url>
-   cd BackendDemo
+   cd LibraryManagement
    ```
 
 2. Restore NuGet packages:
@@ -45,7 +45,7 @@ A .NET 8.0 backend template demonstrating user management with authentication, b
 3. Set up environment variables. Create a `.env` file in the root directory with the following:
 
    ```
-   DB_CONNECTION=Host=localhost;Database=backenddemo;Username=your_username;Password=your_password
+   DB_CONNECTION=Host=localhost;Database=LibraryManagement;Username=your_username;Password=your_password
    JWT_KEY=your_super_secret_jwt_key_here
    JWT_ISSUER=your_issuer
    JWT_AUDIENCE=your_audience

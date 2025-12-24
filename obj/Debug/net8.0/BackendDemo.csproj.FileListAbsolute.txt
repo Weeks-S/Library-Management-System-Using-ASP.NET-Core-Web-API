@@ -1,111 +1,234 @@
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\appsettings.json
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\BackendDemo.exe
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\BackendDemo.deps.json
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\BackendDemo.runtimeconfig.json
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\BackendDemo.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\BackendDemo.pdb
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Npgsql.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.csproj.AssemblyReference.cache
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.AssemblyInfoInputs.cache
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.AssemblyInfo.cs
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.csproj.CoreCompileInputs.cache
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\staticwebassets.build.json
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\staticwebassets\msbuild.BackendDemo.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.BackendDemo.props
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BackendDemo.props
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BackendDemo.props
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\scopedcss\bundle\BackendDemo.styles.css
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendD.B0480CD4.Up2Date
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.dll
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\refint\BackendDemo.dll
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.pdb
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\BackendDemo.genruntimeconfig.cache
-C:\Users\garon\.NET\BackendDemo\obj\Debug\net8.0\ref\BackendDemo.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Humanizer.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\System.CodeDom.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\System.Composition.Convention.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\System.Composition.Hosting.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\System.Composition.Runtime.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\garon\.NET\BackendDemo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\appsettings.json
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\LibraryManagement.exe
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\LibraryManagement.deps.json
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\LibraryManagement.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\LibraryManagement.pdb
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Npgsql.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagement.props
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagement.props
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagement.props
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\scopedcss\bundle\LibraryManagement.styles.css
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\BackendD.B0480CD4.Up2Date
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\garon\.NET\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Humanizer.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\LibraryManagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\LibraryManagement.exe
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\LibraryManagement.deps.json
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\LibraryManagement.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\LibraryManagement.pdb
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Humanizer.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Npgsql.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Sprache.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.sourcelink.json
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.LibraryManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.LibraryManagement.props
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LibraryManagement.props
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LibraryManagement.props
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\scopedcss\bundle\LibraryManagement.styles.css
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\BackendD.B0480CD4.Up2Date
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.dll
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\refint\LibraryManagement.dll
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.pdb
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\garon\.NET\Library Management System\obj\Debug\net8.0\ref\LibraryManagement.dll

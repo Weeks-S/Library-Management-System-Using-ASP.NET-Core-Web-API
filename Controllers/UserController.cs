@@ -1,11 +1,11 @@
-using BackendDemo.Data;
-using BackendDemo.DTOs;
-using BackendDemo.Models;
+using LibraryManagement.Data;
+using LibraryManagement.DTOs;
+using LibraryManagement.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace BackendDemo.Controllers;
+namespace LibraryManagement.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
