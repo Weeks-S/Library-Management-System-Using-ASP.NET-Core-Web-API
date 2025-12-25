@@ -12,13 +12,13 @@ public class AuthService(AppDbContext context, JwtTokenGenerator jwtTokenGenerat
 
     private readonly JwtTokenGenerator _jwtTokenGenerator = jwtTokenGenerator;
 
-    public async Task<JwtSecurityToken> Login(LoginDto request)
+    public async Task<string> Login(LoginDto request)
     {
         var user = await _context.Users.FirstOrDefaultAsync(x => x.Email == request.Email);
 
         if (user == null || !BCrypt.Net.BCrypt.Verify(request.Password, user.Password))
             throw new Exception("Invalid Credentials!");
 
-        return await _jwtTokenGenerator.GenerateToken(user);
+        return _jwtTokenGenerator.GenerateToken(user);
     }
 }

@@ -6,30 +6,29 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace LibraryManagement.Security;
 
-public class JwtTokenGenerator(IConfiguration config)
+public class JwtTokenGenerator()
 {
-    private readonly IConfiguration _config = config;
-
-    public async Task<JwtSecurityToken> GenerateToken(User user)
+    public string GenerateToken(User user)
     {
         var claims = new[]
         {
-            new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
-            new Claim(ClaimTypes.Email, user.Email),
+            new Claim(JwtRegisteredClaimNames.Sub, user.Name),
+            new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
         };
 
         var key = new SymmetricSecurityKey(
             Encoding.UTF8.GetBytes(Environment.GetEnvironmentVariable("JWT_KEY")!)
         );
+        var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
         var token = new JwtSecurityToken(
-            issuer: _config["Jwt:Issuer"],
-            audience: _config["Jwt:Audience"],
+            issuer: Environment.GetEnvironmentVariable("JWT_ISSUER"),
+            audience: Environment.GetEnvironmentVariable("JWT_AUDIENCE"),
             claims: claims,
             expires: DateTime.UtcNow.AddHours(1),
-            signingCredentials: new SigningCredentials(key, SecurityAlgorithms.HmacSha256)
+            signingCredentials: creds
         );
 
-        return token;
+        return new JwtSecurityTokenHandler().WriteToken(token);
     }
 }

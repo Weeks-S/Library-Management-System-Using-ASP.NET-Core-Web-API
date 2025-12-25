@@ -13,7 +13,6 @@ public class BooksController(BookService service) : ControllerBase
 
     // GET: api/books
     [HttpGet]
-    [Authorize]
     public async Task<ActionResult<IEnumerable<Book>>> GetBooks()
     {
         var books = await _service.GetAllBookAsync();
@@ -22,7 +21,6 @@ public class BooksController(BookService service) : ControllerBase
 
     // GET: api/books/1
     [HttpGet("{id}")]
-    [Authorize]
     public async Task<ActionResult<Book>> GetBook(int id)
     {
         var book = await _service.GetBookByIdAsync(id);
@@ -33,7 +31,6 @@ public class BooksController(BookService service) : ControllerBase
 
     // GET: api/books/search?title=...&author=...
     [HttpGet("search")]
-    [Authorize]
     public async Task<ActionResult<IEnumerable<Book>>> SearchBooks(
         [FromQuery] string? title,
         [FromQuery] string? author
@@ -56,7 +53,7 @@ public class BooksController(BookService service) : ControllerBase
 
     // POST: api/books
     [HttpPost]
-    [Authorize]
+    [Authorize(Roles = "ADMIN")]
     public async Task<ActionResult<Book>> AddBook([FromBody] string title)
     {
         try

@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using LibraryManagement.Enums;
 
 namespace LibraryManagement.Models;
 
@@ -14,4 +15,7 @@ public class User
 
     [Required]
     public string Password { get; set; } = string.Empty;
+
+    [Required]
+    public UserRole Role { get; set; } = UserRole.USER;
 }

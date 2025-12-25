@@ -1,5 +1,6 @@
 using LibraryManagement.Data;
 using LibraryManagement.DTOs;
+using LibraryManagement.Enums;
 using LibraryManagement.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -43,6 +44,7 @@ public class UsersController(AppDbContext context) : ControllerBase
             Name = dto.Name,
             Email = dto.Email,
             Password = BCrypt.Net.BCrypt.HashPassword(dto.Password),
+            Role = UserRole.USER,
         };
 
         _context.Users.Add(user);
